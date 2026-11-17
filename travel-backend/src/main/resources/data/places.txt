@@ -1,0 +1,108 @@
+# city|type(A=attraction,F=food)|name|cost(CNY per person)|duration|bestTime(MORNING,AFTERNOON,EVENING,ANY)|transportation|description
+# Order inside a city = popularity priority. Prices are approximate and may change.
+Beijing|A|Forbidden City|60|3-4 hours|MORNING|Metro Line 1 to Tiananmen East, then walk|The vast imperial palace of the Ming and Qing dynasties. Book tickets online in advance.
+Beijing|A|Tiananmen Square|0|1 hour|AFTERNOON|Metro Line 1 to Tiananmen East or West|The huge public square beside the Forbidden City. Bring your passport for the security check.
+Beijing|A|Great Wall at Mutianyu|45|4-5 hours|MORNING|Tourist bus or private car from central Beijing (about 1.5 hours)|A well-restored section of the Great Wall in forested hills. A cable car and toboggan ride are available at extra cost.
+Beijing|A|Summer Palace|30|3 hours|AFTERNOON|Metro Line 4 to Beigongmen|An imperial garden around Kunming Lake with the Long Corridor. Inner sights need an extra ticket.
+Beijing|A|Temple of Heaven|34|2 hours|MORNING|Metro Line 5 to Tiantandongmen|The Ming dynasty temple complex where emperors prayed for good harvests. Locals exercise in the park in the morning.
+Beijing|A|Lama Temple (Yonghe Temple)|25|1.5 hours|AFTERNOON|Metro Line 2 or 5 to Yonghegong Lama Temple|An active Tibetan Buddhist temple with richly decorated halls and incense-filled courtyards.
+Beijing|A|Jingshan Park|2|1.5 hours|MORNING|Walk from the north gate of the Forbidden City|A hill park with the best view over the golden roofs of the Forbidden City.
+Beijing|A|Nanluoguxiang and Hutongs|0|2-3 hours|AFTERNOON|Metro Line 6 or 8 to Nanluoguxiang|Traditional alleys with cafes, snack shops and courtyard houses. Rickshaw tours cost extra.
+Beijing|A|798 Art Zone|0|2-3 hours|ANY|Taxi or bus from Sanyuanqiao metro station|A former factory area turned into galleries, design shops and cafes. Entry is free, some exhibitions charge.
+Beijing|F|Peking Roast Duck Dinner|150|1.5 hours|EVENING|Many branches across the city, book ahead|Beijing's signature dish: crisp roast duck skin wrapped in thin pancakes with sweet bean sauce.
+Beijing|F|Wangfujing Snack Street|60|1.5 hours|EVENING|Metro Line 1 to Wangfujing|A lively street of food stalls with local snacks such as candied hawthorn, skewers and fried dough.
+Beijing|A|Houhai Lakeside Night Walk|0|2 hours|EVENING|Metro Line 8 to Shichahai|Lakeside lanes with bars, live music and lanterns reflected on the water.
+Beijing|F|Old Beijing Noodles and Dumplings|50|1 hour|EVENING|Metro Line 2 to Qianmen|Zhajiangmian (noodles with fried soybean paste) and local dumplings in a traditional-style restaurant.
+Shanghai|A|Yu Garden and Old City|40|2.5 hours|MORNING|Metro Line 10 to Yu Garden|A Ming dynasty classical garden beside a busy bazaar of snacks and souvenirs.
+Shanghai|A|Oriental Pearl Tower|199|2 hours|AFTERNOON|Metro Line 2 to Lujiazui|The iconic TV tower with observation decks and a glass-floor walkway. The price depends on which decks you choose.
+Shanghai|A|Shanghai Museum|0|2.5 hours|MORNING|Metro Line 1, 2 or 8 to People's Square|A free museum of ancient Chinese art, bronzes and ceramics. Reserve online and note the Monday closure.
+Shanghai|A|Tianzifang|0|2 hours|AFTERNOON|Metro Line 9 to Dapuqiao|A maze of lanes in old shikumen houses with craft shops, galleries and cafes.
+Shanghai|A|Zhujiajiao Water Town|0|4 hours|MORNING|Metro Line 17 to Zhujiajiao|An ancient canal town about one hour from downtown. Entry is free, boat rides cost extra.
+Shanghai|A|Former French Concession|0|3 hours|AFTERNOON|Metro Line 1 or 10 to South Shaanxi Road|Tree-lined streets with art deco villas, boutiques and cafes. Best explored on foot or by bike.
+Shanghai|A|Jing'an Temple|50|1.5 hours|AFTERNOON|Metro Line 2 or 7 to Jing'an Temple|A Buddhist temple with golden roofs surrounded by modern skyscrapers.
+Shanghai|A|Xintiandi|0|2 hours|AFTERNOON|Metro Line 10 to Xintiandi|A restored shikumen district of restaurants and shops, close to the site of the first Communist Party congress.
+Shanghai|A|The Bund|0|1.5 hours|EVENING|Metro Line 2 or 10 to East Nanjing Road, then walk to the river|The riverside promenade lined with early 20th-century buildings facing the Pudong skyline. Best at dusk.
+Shanghai|F|Xiaolongbao Soup Dumpling Dinner|80|1 hour|EVENING|Metro to People's Square or Yu Garden area|Shanghai's famous soup dumplings served in bamboo steamers at a well-known dumpling house.
+Shanghai|A|Huangpu River Night Cruise|120|1 hour|EVENING|Boarding piers along the Bund|A boat ride past the illuminated Bund and the Pudong skyline.
+Shanghai|F|Nanjing Road Snacks and Street Walk|70|2 hours|EVENING|Metro Line 2 or 10 to East Nanjing Road|The famous pedestrian shopping street with old brand snack shops and neon lights at night.
+Guangzhou|A|Chen Clan Academy|10|1.5 hours|MORNING|Metro Line 1 or 8 to Chen Clan Academy|A grand ancestral hall famous for its Cantonese carvings, ceramics and plaster sculptures.
+Guangzhou|A|Shangxiajiu and Xiguan Old Town|0|2 hours|AFTERNOON|Metro Line 1 to Changshou Road|A pedestrian shopping area in the old western district with arcade buildings and traditional shops.
+Guangzhou|A|Shamian Island|0|2 hours|MORNING|Metro Line 1 to Huangsha, then walk|A quiet island with colonial-era buildings, tree-lined streets and cafes.
+Guangzhou|A|Canton Tower|150|2 hours|AFTERNOON|Metro Line 3 or APM to Canton Tower|The 600 m landmark tower with observation decks and a skywalk.
+Guangzhou|A|Nanyue King Museum|12|1.5 hours|MORNING|Metro Line 2 to Yuexiu Park|A museum built over the 2,000-year-old tomb of the Nanyue king, with jade and bronze treasures.
+Guangzhou|A|Yuexiu Park|0|2 hours|AFTERNOON|Metro Line 2 to Yuexiu Park|A large city park with the Five Rams Statue, the symbol of Guangzhou.
+Guangzhou|A|Baiyun Mountain|5|3.5 hours|MORNING|Bus or taxi from downtown (about 40 minutes)|Guangzhou's green lung, with hiking trails and city views. A cable car is available at extra cost.
+Guangzhou|A|Sun Yat-sen Memorial Hall|10|1 hour|AFTERNOON|Metro Line 2 to Memorial Hall|An octagonal hall with a blue-tiled roof, dedicated to the leader of the 1911 revolution.
+Guangzhou|A|Beijing Road Pedestrian Street|0|1.5 hours|AFTERNOON|Metro Line 1 or 6 to Beijing Road|A busy shopping street with a glass-covered view of ancient road layers beneath the pavement.
+Guangzhou|A|Guangdong Museum|0|2.5 hours|AFTERNOON|Metro Line 3 or 5 to Zhujiang New Town|A free museum on regional history, nature and Cantonese art in the new city centre.
+Guangzhou|F|Dim Sum Yum Cha Dinner|90|1.5 hours|EVENING|Traditional teahouses in Liwan and Yuexiu districts|Guangzhou's classic tea and dim sum meal: shrimp dumplings, barbecue pork buns and rice rolls.
+Guangzhou|A|Pearl River Night Cruise|98|1 hour|EVENING|Piers along the Pearl River such as Tianzi Pier|A boat ride past the illuminated skyline and Canton Tower.
+Guangzhou|F|Cantonese Congee and BBQ Supper|70|1.5 hours|EVENING|Restaurants around Shangxiajiu|Silky congee with roast meats, a classic Cantonese late meal.
+Guangzhou|A|Huacheng Square Night Lights|0|1.5 hours|EVENING|Metro Line 3 or 5 to Zhujiang New Town|A square surrounded by glowing skyscrapers and the Canton Tower, ideal for an evening walk.
+Shenzhen|A|Lianhuashan Park|0|2 hours|MORNING|Metro Line 3 or 4 to Children's Palace|A hill park in the city centre with a statue of Deng Xiaoping and a view over downtown.
+Shenzhen|A|Window of the World|200|4 hours|AFTERNOON|Metro Line 1 to Window of the World|A theme park with miniature versions of famous world landmarks such as the Eiffel Tower.
+Shenzhen|A|Shenzhen Museum|0|2 hours|MORNING|Metro Line 2 or 4 to Civic Center|A free museum telling the story of Shenzhen's rise from a fishing village to a global tech city.
+Shenzhen|A|Ping An Finance Center Observation Deck|199|1.5 hours|AFTERNOON|Metro to Futian district (taxi from the station)|A high-level observation deck with panoramic views over Shenzhen and across to Hong Kong.
+Shenzhen|A|Dameisha Beach|0|3 hours|MORNING|Metro Line 8 to Dameisha|A free public beach park with seaside walkways and swimming areas.
+Shenzhen|A|Shenzhen Bay Park|0|2.5 hours|AFTERNOON|Metro Line 2 to Shenzhen Bay Park|A long waterfront park for cycling and walking with views over the bay.
+Shenzhen|A|Dafen Oil Painting Village|0|2 hours|MORNING|Metro Line 3 to Dafen|A neighbourhood of studios where artists paint reproductions and original works, with galleries and shops.
+Shenzhen|A|OCT-LOFT Creative Park|0|2 hours|AFTERNOON|Metro to OCT East Station|A converted factory area with art galleries, design shops and cafes.
+Shenzhen|A|Dongmen Old Street|0|2 hours|AFTERNOON|Metro Line 1 or 3 to Laojie|The oldest commercial street in the city, full of shops and local street food.
+Shenzhen|A|Talent Park Night View|0|1.5 hours|EVENING|Metro Line 2 to Houhai|A waterfront park with a lit-up skyline of Nanshan district.
+Shenzhen|F|Shekou Seafood Dinner|120|1.5 hours|EVENING|Metro Line 2 to Shekou Port|Fresh seafood in the Shekou neighbourhood, a favourite of locals and expats.
+Shenzhen|F|Chaoshan Beef Hot Pot|90|1.5 hours|EVENING|Restaurants across the city|Freshly cut beef hot pot, a popular Shenzhen dinner.
+Shenzhen|F|Cantonese Roast Goose Dinner|80|1 hour|EVENING|Restaurants across the city|Crispy roast goose, a local specialty of the Pearl River Delta.
+Chengdu|A|Giant Panda Breeding Research Base|55|3 hours|MORNING|Metro Line 3 to Panda Avenue|The best place to see giant pandas. Arrive at opening time when they are most active.
+Chengdu|A|Wuhou Shrine|50|1.5 hours|AFTERNOON|Bus or taxi, next to Jinli street|A temple dedicated to the Three Kingdoms strategist Zhuge Liang and his emperor.
+Chengdu|A|Jinli Ancient Street|0|1.5 hours|AFTERNOON|Next to Wuhou Shrine|A pedestrian lane of traditional buildings, snacks and handicrafts.
+Chengdu|A|Du Fu Thatched Cottage|50|2 hours|MORNING|Metro or taxi from downtown (about 20 minutes)|The garden home of the Tang dynasty poet Du Fu, with quiet bamboo paths.
+Chengdu|A|Kuanzhai Alley|0|2 hours|AFTERNOON|Metro or taxi to the Kuanzhai Alley area|Three parallel lanes of Qing dynasty courtyards with teahouses, cafes and snacks.
+Chengdu|A|Dujiangyan Irrigation System|80|4 hours|MORNING|High-speed train from Chengdu Xipu (about 30 minutes)|A 2,000-year-old irrigation project that still controls the Min River.
+Chengdu|A|Chunxi Road and Taikoo Li|0|2.5 hours|AFTERNOON|Metro Line 2 to Chunxi Road|The central shopping district with the open-air Taikoo Li mall and the Daci Temple nearby.
+Chengdu|A|Mount Qingcheng|80|5 hours|MORNING|Train to Qingchengshan station from Chengdu|A Daoist mountain covered in forest with temples along the paths.
+Chengdu|A|People's Park and Heming Teahouse|30|2 hours|AFTERNOON|Metro to People's Park Station|Sip tea and watch daily life in the city's most famous teahouse.
+Chengdu|A|Leshan Giant Buddha|80|6 hours|MORNING|High-speed train from Chengdu East to Leshan (about 1 hour)|The world's largest stone Buddha, carved into a cliff face. A full-day trip.
+Chengdu|F|Sichuan Hot Pot Dinner|100|2 hours|EVENING|Restaurants across the city|The signature numbing and spicy pot. Choose mild or half-and-half if you are new to it.
+Chengdu|A|Sichuan Opera and Face-Changing Show|180|1.5 hours|EVENING|Theatres in the city centre, book ahead|Traditional Sichuan opera with the famous face-changing performance.
+Chengdu|F|Chengdu Street Snacks|50|1.5 hours|EVENING|Around Jinli or Kuanzhai Alley|Dan dan noodles, dumplings in chili oil, rabbit head and sweet glutinous rice cakes.
+Chengdu|A|Jiuyan Bridge Riverside Night Walk|0|1.5 hours|EVENING|Taxi or metro to Jiuyan Bridge|A lit-up bridge on the Jin River with bars and riverside promenades.
+Hangzhou|A|West Lake and Su Causeway|0|3 hours|MORNING|Metro Line 1 to Longxiangqiao, then walk to the lake|The UNESCO-listed lake with causeways, pagodas and willow trees. Walk or rent a bike.
+Hangzhou|A|Leifeng Pagoda|40|1.5 hours|AFTERNOON|Bus or walk along the south shore of West Lake|A rebuilt pagoda with lake views and the legend of the White Snake.
+Hangzhou|A|Lingyin Temple and Feilai Feng|75|3 hours|MORNING|Bus or taxi from West Lake (about 20 minutes)|One of China's most famous Buddhist temples, next to a hill of ancient rock carvings.
+Hangzhou|A|Longjing Tea Village|0|2.5 hours|AFTERNOON|Bus or taxi from West Lake (about 25 minutes)|Tea terraces where the famous Longjing green tea is grown. Tea tasting is available.
+Hangzhou|A|Xixi National Wetland Park|80|3.5 hours|MORNING|Taxi or bus from West Lake (about 40 minutes)|A water maze of channels and reed beds with boat rides.
+Hangzhou|A|Hefang Street|0|2 hours|AFTERNOON|Short taxi from West Lake|A restored old street of shops selling silk, tea, fans and traditional snacks.
+Hangzhou|A|Six Harmonies Pagoda|20|1.5 hours|AFTERNOON|Bus or taxi, on the north bank of the Qiantang River|A 13-storey pagoda overlooking the Qiantang River.
+Hangzhou|A|China National Tea Museum|0|1.5 hours|AFTERNOON|Bus or taxi, near Longjing Tea Village|A free museum about the history and culture of Chinese tea.
+Hangzhou|A|Song Dynasty Town|300|4 hours|AFTERNOON|Bus or taxi from West Lake (about 30 minutes)|A theme park with a Song dynasty street scene and large-scale stage shows. The price includes the main performance.
+Hangzhou|F|Hangzhou Cuisine Dinner|120|1.5 hours|EVENING|Restaurants around West Lake|Dongpo pork, West Lake fish in vinegar sauce and Longjing shrimp.
+Hangzhou|A|Impression West Lake Show|280|1 hour|EVENING|Taxi to the show theatre on the lake shore|An outdoor performance staged on the water of West Lake.
+Hangzhou|A|West Lake Musical Fountain|0|1 hour|EVENING|Walk to the lake front (Hubin area)|A free evening fountain and light show on the lake.
+Hangzhou|F|Wushan Night Market Snacks|50|1.5 hours|EVENING|Taxi or metro near Wushan Square|Snacks, noodles and street food around Wushan Square.
+Xi'an|A|Terracotta Army|120|4 hours|MORNING|Tourist bus from Xi'an Railway Station (about 1 hour)|Thousands of life-sized clay soldiers guarding the tomb of China's first emperor.
+Xi'an|A|Huaqing Palace|120|3 hours|AFTERNOON|Tourist bus, close to the Terracotta Army|A Tang dynasty hot-spring palace beneath Mount Li, famous for a legendary love story.
+Xi'an|A|Big Wild Goose Pagoda|50|2 hours|MORNING|Metro Line 3 to Dayanta|A Tang dynasty Buddhist pagoda surrounded by temple gardens.
+Xi'an|A|Xi'an City Wall|54|2 hours|AFTERNOON|Metro Line 2 to Yongningmen (South Gate)|The best-preserved ancient city wall in China. Rent a bike to ride around it.
+Xi'an|A|Shaanxi History Museum|0|3 hours|MORNING|Bus or taxi from the Big Wild Goose Pagoda|A free museum with treasures from the Zhou, Qin, Han and Tang dynasties. Reserve tickets online.
+Xi'an|A|Bell Tower and Drum Tower|50|1.5 hours|AFTERNOON|Metro Line 2 to Zhonglou (Bell Tower)|Two Ming dynasty towers at the heart of the old city.
+Xi'an|A|Xi'an Museum and Small Wild Goose Pagoda|0|2 hours|MORNING|Short taxi from the South Gate|A free museum and a quiet pagoda garden with local life.
+Xi'an|A|Muslim Quarter|0|2 hours|AFTERNOON|Walk from the Drum Tower|A busy street of mosques, shops and food stalls in the historic Hui district.
+Xi'an|A|Mount Hua (Huashan)|160|8 hours|MORNING|High-speed train from Xi'an North to Huashan North (about 40 minutes), then shuttle|One of China's Five Great Mountains with steep trails and dramatic cliffs. A full-day trip.
+Xi'an|F|Muslim Quarter Street Food Feast|60|1.5 hours|EVENING|Walk from the Drum Tower|Lamb skewers, roujiamo (Chinese burger), persimmon cakes and cold noodles.
+Xi'an|A|Tang Dynasty Show and Dinner|280|2 hours|EVENING|Theatres in the city centre, book ahead|A dumpling banquet or dinner with a Tang dynasty song and dance performance.
+Xi'an|A|Datang Everbright City Night Walk|0|1.5 hours|EVENING|Metro Line 3 or 4 to Dayanta|A pedestrian street with Tang style buildings that glow at night.
+Xi'an|F|Biangbiang Noodles and Roujiamo|40|1 hour|EVENING|Restaurants across the old city|Thick hand-pulled biangbiang noodles and the local roujiamo sandwich.
+Chongqing|A|Three Gorges Museum|0|2.5 hours|MORNING|Metro and short walk, near the People's Hall|A free museum about the Three Gorges region and the history of Chongqing. Reserve tickets online.
+Chongqing|A|Jiefangbei Pedestrian Street|0|1.5 hours|AFTERNOON|Metro Line 1 or 6 to Xiaoshizi, then walk|The central shopping district surrounded by skyscrapers and the Liberation Monument.
+Chongqing|A|Chaotianmen Square|0|1.5 hours|MORNING|Short taxi from Jiefangbei|The meeting point of the Yangtze and Jialing rivers, with views of the bridges.
+Chongqing|A|Liziba Station|0|1 hour|AFTERNOON|Metro Line 2 to Liziba|The monorail that passes through a residential building, a viral Chongqing sight.
+Chongqing|A|Luohan Temple|10|1.5 hours|MORNING|Walk from Jiefangbei|A quiet Buddhist temple with hundreds of arhat statues in the middle of the city.
+Chongqing|A|Ciqikou Ancient Town|0|2.5 hours|AFTERNOON|Metro Line 1 to Ciqikou|A riverside old town with stone streets, teahouses and snacks such as sesame twists.
+Chongqing|A|Dazu Rock Carvings|115|5 hours|MORNING|High-speed train or bus to Dazu (about 1.5 hours)|UNESCO World Heritage Buddhist carvings dating from the Tang and Song dynasties.
+Chongqing|A|Yangtze River Cableway|20|1 hour|AFTERNOON|Short taxi from Jiefangbei|A cable car across the river with views of the old town and the Yangtze.
+Chongqing|A|Shibati Old Street|0|1.5 hours|AFTERNOON|Short walk or taxi from Jiefangbei|Winding stone stairs with old Chongqing houses, small shops and local snacks.
+Chongqing|A|Hongya Cave Night View|0|2 hours|EVENING|Metro Line 1 or 6 to Xiaoshizi|A stilted-house complex that lights up in golden light at night.
+Chongqing|F|Chongqing Hot Pot Dinner|100|2 hours|EVENING|Restaurants across the city|Chongqing's most famous dish: a bubbling pot of chili oil and numbing peppercorns. Ask for mild if needed.
+Chongqing|A|Yangtze River Night Cruise|198|1 hour|EVENING|Departs from Chaotianmen Dock|A boat ride past the lit-up skyline where two rivers meet.
+Chongqing|F|Chongqing Xiaomian Noodles and Street Food|40|1 hour|EVENING|Local noodle shops near Jiefangbei|Spicy breakfast-style noodles with peas and minced pork, a local comfort food.
+Chongqing|A|Nanshan Yikeshu Viewing Platform|30|2 hours|EVENING|Taxi across the river to Nanshan|A hilltop platform with the best night view of the city.
